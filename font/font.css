@@ -1,0 +1,8 @@
+@font-face{
+	font-family:"WendyLPStd-Medium";
+	scr:url("WendyLPStd-Medium.ttf") format(truetype);
+}
+.span1{
+		font-family:WendyLPStd-Medium;
+	color:#e1b400;	
+}
